@@ -2,9 +2,10 @@
 
 
 Point 1: Add to github
-git branch -M main
-git remote add origin https://github.com/sweta816/Word-Search-Game.git
-git push -u origin main
+
+1. git branch -M main
+2. git remote add origin https://github.com/sweta816/Word-Search-Game.git
+3. git push -u origin main
 
 
 POint 2 : In order to update changes on github we have to pull first then push
