@@ -1,5 +1,0 @@
-E:\RealTimeProject\WordSerachGame>git branch -M main
-
-E:\RealTimeProject\WordSerachGame>git remote add origin https://github.com/sweta816/Word-Search-Game.git
-
-E:\RealTimeProject\WordSerachGame>git push -u origin main
